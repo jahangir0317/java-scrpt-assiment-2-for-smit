@@ -1,0 +1,1 @@
+# java-scrpt-assiment-2-for-smit
